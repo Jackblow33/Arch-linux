@@ -1,0 +1,3 @@
+# Bcm4360 imac interface
+
+sudo pacman -Su broadcom-wl
